@@ -1,0 +1,33 @@
+[
+  {
+    "basePrice": 5.99,
+    "itemDescription": "Truffle Gourmet Pasta",
+    "units": 1,
+    "itemId": "40133"
+  },
+  {
+    "basePrice": 0.28,
+    "itemDescription": "Roll",
+    "units": 4,
+    "percentageDiscount": 35.0,
+    "itemId": "300198"
+  },
+  {
+    "basePrice": 2.89,
+    "itemDescription": "Chocolate",
+    "units": 3,
+    "itemId": "300858"
+  },
+  {
+    "basePrice": 0.99,
+    "itemDescription": "Soft Drink",
+    "percentageDiscount": 10.0,
+    "itemId": "300158"
+  },
+  {
+    "basePrice": 0.3,
+    "itemDescription": "Yogurt",
+    "units": 6,
+    "itemId": "300181"
+  }
+]
